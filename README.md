@@ -1,6 +1,8 @@
 Myotis Gene Annotations
 =======================
 
+[![DOI](https://zenodo.org/badge/749931059.svg)](https://doi.org/10.5281/zenodo.14226779)
+
 A repository dedicated to gene annotation tracking for neartic _Myotis_ species. 
 
 VERSION HISTORY
